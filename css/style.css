@@ -1,0 +1,32 @@
+html {
+  text-align: justify;
+
+}
+h1 {
+  color: darkorange;
+  text-align: center;
+}
+h2 {
+  color: red;
+  font-weight: bolder;
+}
+.before, .during, .after{
+float: left;
+width: 20%;
+padding: 1%;
+}
+nav {
+  float: left;
+  width: 15%;
+  background-color: darkgreen;
+  height: 100em;
+}
+body{
+  background-color: tan;
+}
+h3 {
+  color: white;
+  font-weight: bolder;
+  font-size: 2em;
+  text-align: center;
+}
